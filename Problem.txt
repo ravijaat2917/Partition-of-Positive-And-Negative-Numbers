@@ -1,5 +1,8 @@
 Partition Negative and Positive Numbers
-You will be given an array of n integers, both negative and positive. You need to partition the array into positive and negative numbers.  Add all the positive integers of the array to one array (or any data structure) and add all the negative to another array (or any data structure). If the first element of the input array is a positive number, then print all the positive numbers in the given order in the first line of output, and then all the negative numbers in the given order in the second line of output, vice - versa.
+You will be given an array of n integers, both negative and positive. You need to partition the array into positive and negative numbers.  Add all the positive integers
+of the array to one array (or any data structure) and add all the negative to another array (or any data structure). If the first element of the input array is a
+positive number, then print all the positive numbers in the given order in the first line of output, and then all the negative numbers in the given order in the second
+line of output, vice - versa.
 
 
 Notes:
